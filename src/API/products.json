@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Vanilla Ice Cream",
+      "description": "Classic vanilla ice cream made with real vanilla beans.",
+      "price": 4.99,
+      "category": "Ice Cream",
+      "stock": 120,
+      "imageUrl": "https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/drumstick/products/cones/webp/drumstick-the-original-vanilla-ice-cream-8ct-448x448.webp"
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Ice Cream",
+      "description": "Rich and creamy chocolate ice cream with cocoa.",
+      "price": 5.49,
+      "category": "Ice Cream",
+      "stock": 80,
+      "imageUrl": "https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/drumstick/products/cones/webp/drumstick-simpy-dipped-ice-cream-8ct-448x448.webp"
+    },
+    {
+      "id": 3,
+      "name": "Strawberry Ice Cream",
+      "description": "Delicious strawberry ice cream made with fresh strawberries.",
+      "price": 5.29,
+      "category": "Ice Cream",
+      "stock": 50,
+      "imageUrl": "https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/drumstick/products/cones/webp/drumstick-cookie-dipped-ice-cream-8ct-448x448.webp"
+    },
+    {
+      "id": 4,
+      "name": "Mint Chocolate Chip Ice Cream",
+      "description": "Refreshing mint ice cream with chocolate chips.",
+      "price": 5.99,
+      "category": "Ice Cream",
+      "stock": 30,
+      "imageUrl": "https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/drumstick/products/snackables/webp/drumstick-mini-drum-vanilla-ice-cream-448x448.webp"
+    },
+    {
+      "id": 5,
+      "name": "Cookies and Cream Ice Cream",
+      "description": "Creamy vanilla ice cream with crunchy cookie pieces.",
+      "price": 6.49,
+      "category": "Ice Cream",
+      "stock": 25,
+      "imageUrl": "https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/drumstick/products/snackables/webp/drumstick-mini-drum-vanilla-ice-cream-448x448.webp"
+    }
+  ]
+  
